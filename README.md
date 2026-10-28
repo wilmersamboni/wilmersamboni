@@ -24,7 +24,8 @@ También: n8n · Telegram Bot API · MCP · PostgreSQL
 | --- | --- | --- |
 | **ERP EPSAS** *(código actual privado)* | ERP educativo multi-tenant: matrículas, prácticas y horarios, con RLS, asistente de IA local y PWA móvil · versión anterior: [backend](https://github.com/wilmersamboni/nest-backend-epsas) · [frontend](https://github.com/wilmersamboni/frotend_erp_yamboro) | NestJS · Angular · PostgreSQL · Redis · Docker |
 | **[Automatizaciones n8n](https://github.com/wilmersamboni/n8n-epsas-wokflow)** | Flujos de n8n para el ERP | n8n |
-| **Sistema de repuestos** | [api](https://github.com/d-09927/api-repuestos_service.git) | Api con MCP para el uso de  IA y orquestacion con demas agentes | NestJS |
+| **[API de repuestos](https://github.com/d-09927/api-repuestos_service)** *(en equipo)* | API para inventario, compras y clientes de una tienda de repuestos, con arquitectura hexagonal | NestJS · TypeORM · PostgreSQL · Zod |
+
 
 
 ---
