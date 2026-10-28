@@ -2,7 +2,7 @@
 
 ## Hola, soy Wilmer 👋
 
-### Desarrollador Junior · Programación, IA y MCPs · Pitalito - HUila, Colombia
+### Desarrollador Junior · Programación, IA y MCPs · Pitalito - Huila, Colombia
 
 Construyo sistemas con NestJS, Angular y React, automatizaciones con n8n e IA, servidores MCP.
 
