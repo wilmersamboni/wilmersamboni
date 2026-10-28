@@ -1,30 +1,20 @@
 <img width="1500" height="500" alt="Banner de GitHub de Jose Wilmer Samboni Vargas" src="https://github.com/user-attachments/assets/22591241-5e23-4241-8488-d2d3113a3bc2" />
 
 ## Hola, soy Wilmer 👋
+### Desarrollador Full Stack · NestJS, Angular e IA · Pitalito, Huila 🇨🇴
 
-### Desarrollador Junior · Programación, IA y MCPs · Pitalito - HUila, Colombia
+Construyo sistemas multi-tenant con NestJS y Angular, asistentes de IA locales, servidores MCP y automatizaciones con n8n.
 
-Construyo sistemas con NestJS, Angular y React, automatizaciones con n8n e IA, servidores MCP.
+[LinkedIn](https://www.linkedin.com/in/tu-usuario) · [Email](mailto:sambonivargaswilmer@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/TU_USUARIO_LINKEDIN) · [Email](mailto:sambonivargaswilmer@gmail.com)
-
----
-
-### Stack
-
-![Stack](https://skillicons.dev/icons?i=nestjs,react,angular,ts,docker,linux,arduino,github&theme=dark)
-
-También: n8n · Telegram Bot API · MCP · PostgreSQL
-
----
-
-### Proyectos
+![Stack](https://skillicons.dev/icons?i=nestjs,angular,react,ts,nodejs,postgres,redis,docker,tailwind,threejs,linux&theme=dark)
 
 | Proyecto | Qué es | Stack |
 | --- | --- | --- |
-| **ERP EPSAS** | Sistema ERP para EPSAS (DESCRIBE EN UNA LÍNEA QUÉ HACE) | Nestjs . Angular  |
-| **Servidores MCP** | Servidores MCP para conectar herramientas con agentes de IA | Node.js · TypeScript |
-| **Sistema de repuestos** | Inventario y ventas para una tienda de repuestos de concesionaria, con API propia | NestJS · React |
+| **ERP EPSAS** *(privado)* | ERP educativo multi-tenant: matrículas, prácticas y horarios, con RLS, asistente de IA local y PWA móvil | NestJS · Angular · PostgreSQL · Redis · Docker |
+| **[Servidores MCP](link)** | MCP para conectar … con agentes de IA | Node.js · TypeScript |
+| **[Sistema de repuestos](link)** | Inventario y ventas para una tienda de repuestos, con API propia | NestJS |
+
 
 ---
 
