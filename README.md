@@ -2,9 +2,9 @@
 
 ## Hola, soy Wilmer 👋
 
-### Desarrollador Junior · Programación, IA y MCPs · TU_CIUDAD, TU_PAÍS
+### Desarrollador Junior · Programación, IA y MCPs · Pitalito - HUila, Colombia
 
-Construyo sistemas con NestJS y React, automatizaciones con n8n e IA, servidores MCP y proyectos de electrónica con Arduino.
+Construyo sistemas con NestJS, Angular y React, automatizaciones con n8n e IA, servidores MCP.
 
 [LinkedIn](https://www.linkedin.com/in/TU_USUARIO_LINKEDIN) · [Email](mailto:sambonivargaswilmer@gmail.com)
 
