@@ -12,7 +12,7 @@ Construyo sistemas con NestJS y React, automatizaciones con n8n e IA, servidores
 
 ### Stack
 
-![Stack](https://skillicons.dev/icons?i=nestjs,react,ts,docker,linux,arduino,github&theme=dark)
+![Stack](https://skillicons.dev/icons?i=nestjs,react,angular,ts,docker,linux,arduino,github&theme=dark)
 
 También: n8n · Telegram Bot API · MCP · PostgreSQL
 
@@ -22,7 +22,7 @@ También: n8n · Telegram Bot API · MCP · PostgreSQL
 
 | Proyecto | Qué es | Stack |
 | --- | --- | --- |
-| **ERP EPSAS** | Sistema ERP para EPSAS (DESCRIBE EN UNA LÍNEA QUÉ HACE) | TU_STACK |
+| **ERP EPSAS** | Sistema ERP para EPSAS (DESCRIBE EN UNA LÍNEA QUÉ HACE) | Nestjs . Angular  |
 | **Servidores MCP** | Servidores MCP para conectar herramientas con agentes de IA | Node.js · TypeScript |
 | **Sistema de repuestos** | Inventario y ventas para una tienda de repuestos de concesionaria, con API propia | NestJS · React |
 
